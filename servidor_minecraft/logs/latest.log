@@ -82,3 +82,28 @@
 [06Jan2025 19:10:43.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [A Flaming Sword]
 [06Jan2025 19:10:55.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [Suit Up]
 [06Jan2025 19:11:10.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [Draconic Evolution]
+[06Jan2025 19:11:29.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [Mother of Dragons]
+[06Jan2025 19:11:42.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU moved too quickly! 8.153331393582516,4.49997965768938,-4.089639616784989
+[06Jan2025 19:11:44.428] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@336cdeba
+[06Jan2025 19:11:44.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SD_caicedo[/127.104.125.239:45867] logged in with entity id 1670 at (14.5, 102.0, 6.5)
+[06Jan2025 19:11:44.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo joined the game
+[06Jan2025 19:11:44.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo has made the advancement [Ice and Fire]
+[06Jan2025 19:11:54.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KnekiUeU: Teleported KnekiUeU to SD_caicedo]
+[06Jan2025 19:12:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KnekiUeU: Set SD_caicedo's game mode to Creative Mode]
+[06Jan2025 19:14:58.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo has made the advancement [Mother of Dragons]
+[06Jan2025 19:15:07.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU lost connection: Disconnected
+[06Jan2025 19:15:07.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU left the game
+[06Jan2025 19:15:13.333] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ec8a957
+[06Jan2025 19:15:13.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KnekiUeU[/127.150.236.139:58313] logged in with entity id 2086 at (11.457492143918145, 104.0, 4.007737586448747)
+[06Jan2025 19:15:13.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU joined the game
+[06Jan2025 19:15:42.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KnekiUeU: Summoned new Ice Dragon]
+[06Jan2025 19:16:21.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD_caicedo lost connection: Disconnected
+[06Jan2025 19:16:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo left the game
+[06Jan2025 19:16:29.531] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1481985f
+[06Jan2025 19:16:29.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SD_caicedo[/127.104.125.239:39907] logged in with entity id 2244 at (11.069935527028635, 104.0, 4.038707641151392)
+[06Jan2025 19:16:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo joined the game
+[06Jan2025 19:16:37.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KnekiUeU: Summoned new Fire Dragon]
+[06Jan2025 19:16:52.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KnekiUeU: Set the time to 1000]
+[06Jan2025 19:17:25.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KnekiUeU: Summoned new Ice Dragon]
+[06Jan2025 19:19:27.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KnekiUeU: Made SD_caicedo a server operator]
+[06Jan2025 19:20:52.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [My Name is Nobody]
