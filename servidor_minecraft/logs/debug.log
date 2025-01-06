@@ -1339,3 +1339,474 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jan2025 19:17:25.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KnekiUeU: Summoned new Ice Dragon]
 [06Jan2025 19:19:27.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KnekiUeU: Made SD_caicedo a server operator]
 [06Jan2025 19:20:52.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [My Name is Nobody]
+[06Jan2025 19:21:52.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 19:21:52.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 19:23:35.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [Best Friends Forever]
+[06Jan2025 19:23:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [Dragon Growth Hormone]
+[06Jan2025 19:23:49.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo has made the advancement [Draconic Evolution]
+[06Jan2025 19:24:20.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[06Jan2025 19:24:34.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[06Jan2025 19:24:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[06Jan2025 19:24:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo has made the advancement [Dragonslayer]
+[06Jan2025 19:24:59.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[06Jan2025 19:26:37.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 0.41630640022039245
+[06Jan2025 19:26:37.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 1.0533503237473525
+[06Jan2025 19:26:37.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 1.4852177654409076
+[06Jan2025 19:26:37.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 0.8512136977261804
+[06Jan2025 19:26:37.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 1.0005558354999522
+[06Jan2025 19:26:37.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 1.0803416950103468
+[06Jan2025 19:26:38.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 0.4381555170704985
+[06Jan2025 19:26:45.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 0.35417246675177694
+[06Jan2025 19:26:45.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 1.0000000000000142
+[06Jan2025 19:26:46.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 0.5498432386138745
+[06Jan2025 19:26:46.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 0.5498432386138745
+[06Jan2025 19:26:47.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 0.7656670323277126
+[06Jan2025 19:26:47.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 3.000737139242915
+[06Jan2025 19:26:47.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 4.68908047069695
+[06Jan2025 19:26:47.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 6.084881205157629
+[06Jan2025 19:26:47.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 0.5271352214647322
+[06Jan2025 19:26:47.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 2.5570219722925884
+[06Jan2025 19:26:47.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 4.140381234409688
+[06Jan2025 19:26:47.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 5.484812540115328
+[06Jan2025 19:26:47.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 6.701398260054731
+[06Jan2025 19:26:47.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 7.849576356016598
+[06Jan2025 19:26:47.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of KnekiUeU) moved wrongly! 0.409556310383266
+[06Jan2025 19:26:52.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 19:26:52.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 19:27:45.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo has made the advancement [Dragon Growth Hormone]
+[06Jan2025 19:27:57.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo has made the advancement [Best Friends Forever]
+[06Jan2025 19:29:29.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [Dragon Commander]
+[06Jan2025 19:29:30.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [An Ear-Shattering Roar]
+[06Jan2025 19:29:31.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [The Song of the Dragons]
+[06Jan2025 19:30:03.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo has made the advancement [Suit Up]
+[06Jan2025 19:31:52.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 19:31:52.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 19:33:03.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD_caicedo lost connection: Disconnected
+[06Jan2025 19:33:03.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo left the game
+[06Jan2025 19:33:35.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU has made the advancement [Monster Hunter]
+[06Jan2025 19:33:52.771] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 21 messages to dispatch.
+[06Jan2025 19:33:52.779] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[06Jan2025 19:33:52.833] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[06Jan2025 19:33:52.878] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[06Jan2025 19:33:52.931] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[06Jan2025 19:33:52.981] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[06Jan2025 19:33:53.030] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[06Jan2025 19:33:53.076] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge, tlskincape, citadel, iceandfire]
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.081] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[06Jan2025 19:33:53.130] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[06Jan2025 19:33:53.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[06Jan2025 19:33:53.229] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[06Jan2025 19:33:53.229] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.229] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.232] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[06Jan2025 19:33:53.279] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[06Jan2025 19:33:53.331] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[06Jan2025 19:33:53.379] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[06Jan2025 19:33:53.432] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[06Jan2025 19:33:53.481] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[06Jan2025 19:33:53.531] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[06Jan2025 19:33:53.554] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[06Jan2025 19:33:53.554] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.554] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.579] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[06Jan2025 19:33:53.579] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.580] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.631] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 17
+[06Jan2025 19:33:53.684] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[06Jan2025 19:33:53.717] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[06Jan2025 19:33:53.718] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.718] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.718] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[06Jan2025 19:33:53.718] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.718] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.718] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[06Jan2025 19:33:53.718] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.718] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.729] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[06Jan2025 19:33:53.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[06Jan2025 19:33:53.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[06Jan2025 19:33:53.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.781] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 20
+[06Jan2025 19:33:53.839] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[06Jan2025 19:33:53.839] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.839] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:53.840] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[06Jan2025 19:33:53.840] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:53.840] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:54.295] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[06Jan2025 19:33:54.296] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:54.296] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:54.307] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[06Jan2025 19:33:54.307] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:33:54.307] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:33:54.328] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[06Jan2025 19:33:54.383] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e56f4db
+[06Jan2025 19:33:54.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SD_caicedo[/127.104.125.239:57279] logged in with entity id 12275 at (2.394148588180542, 274.4610106945038, 209.00579833984375)
+[06Jan2025 19:33:54.388] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@54c2a026 into net.minecraft.network.Connection@211c6c2b
+[06Jan2025 19:33:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo joined the game
+[06Jan2025 19:35:41.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD_caicedo lost connection: Timed out
+[06Jan2025 19:35:41.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo left the game
+[06Jan2025 19:35:51.849] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 21 messages to dispatch.
+[06Jan2025 19:35:51.879] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[06Jan2025 19:35:51.929] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[06Jan2025 19:35:51.978] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[06Jan2025 19:35:52.029] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[06Jan2025 19:35:52.079] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[06Jan2025 19:35:52.129] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge, tlskincape, citadel, iceandfire]
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[06Jan2025 19:35:52.167] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[06Jan2025 19:35:52.168] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[06Jan2025 19:35:52.168] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.168] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.179] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[06Jan2025 19:35:52.232] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[06Jan2025 19:35:52.280] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[06Jan2025 19:35:52.288] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[06Jan2025 19:35:52.288] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.288] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.330] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[06Jan2025 19:35:52.378] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[06Jan2025 19:35:52.430] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[06Jan2025 19:35:52.480] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[06Jan2025 19:35:52.529] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[06Jan2025 19:35:52.539] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[06Jan2025 19:35:52.539] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.539] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.539] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[06Jan2025 19:35:52.539] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.539] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.539] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[06Jan2025 19:35:52.539] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.539] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.579] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[06Jan2025 19:35:52.630] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[06Jan2025 19:35:52.641] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[06Jan2025 19:35:52.641] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.641] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.641] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[06Jan2025 19:35:52.641] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.641] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.641] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[06Jan2025 19:35:52.641] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.641] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.682] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[06Jan2025 19:35:52.683] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[06Jan2025 19:35:52.683] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.683] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.683] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[06Jan2025 19:35:52.683] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.683] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.730] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 17
+[06Jan2025 19:35:52.780] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[06Jan2025 19:35:52.807] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:52.807] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:52.829] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[06Jan2025 19:35:52.878] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 20
+[06Jan2025 19:35:53.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[06Jan2025 19:35:53.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:53.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:53.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[06Jan2025 19:35:53.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:53.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:53.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[06Jan2025 19:35:53.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:53.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:53.440] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[06Jan2025 19:35:53.440] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:53.440] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:53.440] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[06Jan2025 19:35:53.440] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:35:53.440] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:35:53.480] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[06Jan2025 19:35:53.533] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d33b0be
+[06Jan2025 19:35:53.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SD_caicedo[/127.104.125.239:40033] logged in with entity id 12495 at (-28.82157176792041, 206.15421748161316, 169.3617921767074)
+[06Jan2025 19:35:53.540] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@58ed4b5b into net.minecraft.network.Connection@4a2fb851
+[06Jan2025 19:35:53.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo joined the game
+[06Jan2025 19:36:07.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU moved too quickly! -6.5595925370717625,2.2969479312725127,7.549475030488082
+[06Jan2025 19:36:33.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to KnekiUeU: Que hacen?
+[06Jan2025 19:36:52.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 19:36:52.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 19:37:08.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD_caicedo lost connection: Timed out
+[06Jan2025 19:37:08.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD_caicedo left the game
+[06Jan2025 19:37:30.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU lost connection: Disconnected
+[06Jan2025 19:37:30.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU left the game
+[06Jan2025 19:37:40.222] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 21 messages to dispatch.
+[06Jan2025 19:37:40.224] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[06Jan2025 19:37:40.274] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[06Jan2025 19:37:40.324] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[06Jan2025 19:37:40.374] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[06Jan2025 19:37:40.424] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[06Jan2025 19:37:40.474] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge, tlskincape, citadel, iceandfire]
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[06Jan2025 19:37:40.485] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jan2025 19:37:40.486] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jan2025 19:37:40.486] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[06Jan2025 19:37:40.486] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[06Jan2025 19:37:40.524] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[06Jan2025 19:37:40.524] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[06Jan2025 19:37:40.524] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:40.524] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:40.574] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[06Jan2025 19:37:40.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[06Jan2025 19:37:40.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:40.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:40.624] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[06Jan2025 19:37:40.674] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[06Jan2025 19:37:40.724] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[06Jan2025 19:37:40.774] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[06Jan2025 19:37:40.824] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[06Jan2025 19:37:40.874] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[06Jan2025 19:37:40.902] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[06Jan2025 19:37:40.902] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:40.902] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:40.902] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[06Jan2025 19:37:40.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:40.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:40.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[06Jan2025 19:37:40.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:40.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:40.924] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[06Jan2025 19:37:40.975] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[06Jan2025 19:37:41.024] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[06Jan2025 19:37:41.074] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 17
+[06Jan2025 19:37:41.088] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[06Jan2025 19:37:41.088] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.089] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.089] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[06Jan2025 19:37:41.089] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.089] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.089] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[06Jan2025 19:37:41.089] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.089] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.124] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[06Jan2025 19:37:41.124] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[06Jan2025 19:37:41.125] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.125] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.125] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[06Jan2025 19:37:41.125] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.125] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.174] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[06Jan2025 19:37:41.224] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 20
+[06Jan2025 19:37:41.233] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[06Jan2025 19:37:41.233] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.233] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.233] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[06Jan2025 19:37:41.233] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.233] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.234] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[06Jan2025 19:37:41.234] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.234] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.234] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[06Jan2025 19:37:41.234] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.234] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.234] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[06Jan2025 19:37:41.234] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.234] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.332] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[06Jan2025 19:37:41.332] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.332] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.332] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[06Jan2025 19:37:41.332] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.332] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.767] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[06Jan2025 19:37:41.767] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.767] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.767] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[06Jan2025 19:37:41.767] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jan2025 19:37:41.767] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jan2025 19:37:41.774] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[06Jan2025 19:37:41.832] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@519879c8
+[06Jan2025 19:37:41.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KnekiUeU[/127.150.236.139:52465] logged in with entity id 13098 at (-50.13310585211682, 189.56033891823296, 198.30000001192093)
+[06Jan2025 19:37:41.837] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5ddd7234 into net.minecraft.network.Connection@5f1d76b5
+[06Jan2025 19:37:41.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU joined the game
+[06Jan2025 19:38:42.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:42.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:43.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:44.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:45.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:46.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:47.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:48.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:48.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:48.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:48.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU was kicked for floating a vehicle too long!
+[06Jan2025 19:38:48.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KnekiUeU lost connection: Flying is not enabled on this server
+[06Jan2025 19:38:48.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KnekiUeU left the game
