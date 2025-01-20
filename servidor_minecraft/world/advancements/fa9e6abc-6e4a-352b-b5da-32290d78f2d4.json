@@ -1,16 +1,25 @@
 {
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-20 02:09:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2025-01-05 23:39:58 +0000"
+      "tick": "2025-01-20 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-20 02:09:09 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:bamboo_jungle": "2025-01-05 23:39:58 +0000",
-      "minecraft:sparse_jungle": "2025-01-05 23:40:48 +0000",
-      "minecraft:forest": "2025-01-05 23:42:45 +0000",
-      "minecraft:jungle": "2025-01-05 23:40:43 +0000"
+      "minecraft:sparse_jungle": "2025-01-20 02:09:19 +0000"
     },
     "done": false
   },
